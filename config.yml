@@ -1,0 +1,6 @@
+development:
+  store: spens-web-emporium.myshopify.com
+  password: aaaabbbbcccc
+  theme_id: '11112222'
+  ignore_files:
+    - config/settings_data.json
